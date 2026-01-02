@@ -19,6 +19,9 @@
 *.iml
 .idea/
 
+# Ignore application.properties
+src/main/resources/application.properties
+
 # VS Code
 .vscode/
 
